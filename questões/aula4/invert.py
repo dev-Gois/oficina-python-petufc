@@ -1,0 +1,1 @@
+invert_string = lambda s: s[::-1]
