@@ -39,6 +39,7 @@ Em suma, a metodologia desta oficina proporcionará uma experiência de aprendiz
 - Matheus Alves Gois
 - Luis Carlos De Carvalho Ferreira Filho
 - Leandro Nascimento Adegas
+- Francisco Cauã Gomes
 
 ## Orientador
 
